@@ -18,7 +18,6 @@ export default defineConfig({
   },
   base: '/',
   optimizeDeps: {
-    include: ['react', 'react-dom', 'chart.js', 'react-chartjs-2'],
-    exclude: ['@rollup/rollup-linux-x64-gnu']
+    include: ['react', 'react-dom', 'chart.js', 'react-chartjs-2']
   }
 });
