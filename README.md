@@ -51,6 +51,3 @@ This project is ready to deploy on [Vercel](https://vercel.com/):
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Chart.js](https://www.chartjs.org/)
-
-## License
-MIT 
